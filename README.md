@@ -40,18 +40,6 @@ To analyze Netflix's content dataset by performing data cleaning, exploratory da
 
 ---
 
-## ❓ Key Questions (KPIs)
-
-- How has Netflix's content library grown over the years?
-- Which countries contribute the most Netflix titles?
-- Which genres dominate the platform?
-- What is the distribution of Movies vs TV Shows?
-- Which ratings are most common?
-- How does content duration vary across titles?
-- What factors influence content type classification?
-
----
-
 ## ⭐ Features
 
 - Data Cleaning & Preprocessing using Python
